@@ -1,5 +1,4 @@
 # Fair Employment MVP
-<<<<<<< HEAD
 
 ![status-badge](https://img.shields.io/badge/status-in_progress-yellow)
 ![license-badge](https://img.shields.io/badge/license-MIT-green)
