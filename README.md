@@ -3,7 +3,7 @@
 ![status-badge](https://img.shields.io/badge/status-in_progress-yellow)
 ![license-badge](https://img.shields.io/badge/license-MIT-green)
 
-A prototype project exploring **fair employment tools**:  
+A prototype project exploring **fair employment tools:  
 - Worker rights Q&A assistant  
 - Automated complaint template generator  
 - Early experiments with RAG (Retrieval-Augmented Generation) and PEFT (LoRA)
